@@ -1,9 +1,11 @@
 # Discord-ForceTheme
 Applies the midnight Discord theme and keeps it on restart!<br>
+Currently works on Windows and macOS.
+
 Note: You may need to run the program again after Discord updates.
 
 ## Disclaimer
-This program adds a line to the index.js file in discord modules.<br>
+This program adds a line to the index.js file in Discord modules.<br>
 It can be dangerous to have any malicious code in this file.<br>
 Use at your own risk. I am not responsible if anything happens to your Discord account.
 
