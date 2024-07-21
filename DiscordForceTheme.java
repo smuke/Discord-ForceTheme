@@ -38,7 +38,7 @@ public class DiscordForceTheme
                     Scanner scan = new Scanner(indexFile);
                     scan.nextLine();
 
-                    if (scan.hasNextLine() && scan.nextLine().length() > 0)
+                    if (scan.hasNextLine() && !scan.nextLine().isEmpty())
                     {
                         System.out.println("The index.js file has already been modified!");
                         return;
