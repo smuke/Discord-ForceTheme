@@ -4,7 +4,7 @@ Note: You may need to run the program again after Discord updates.
 
 ## Disclaimer
 This program adds a line to the index.js file in discord modules.<br>
-It can be dangerous to have any malicious code in the file.<br>
+It can be dangerous to have any malicious code in this file.<br>
 Use at your own risk. I am not responsible if anything happens to your Discord account.
 
 ![Discord screenshot](https://github.com/user-attachments/assets/63fc9980-8d70-4a05-8dd3-1b9fec358cd7)
