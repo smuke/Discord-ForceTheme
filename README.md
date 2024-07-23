@@ -13,7 +13,7 @@ Use at your own risk. I am not responsible if anything happens to your Discord a
 
 ## Other themes
 You can change the theme via the `ADD_CLASS_JS` constant.<br>
-Default: `document.body.classList.add(\"theme-midnight\");`
+Default: `document.body.classList.add('theme-midnight');`
 
 "theme-midnight" is the CSS class name<br>
 Other theme available: "theme-darker"
