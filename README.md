@@ -11,7 +11,7 @@ This program adds a line to the index.js file in Discord modules.<br>
 It can be dangerous to have any malicious code in this file.<br>
 Use at your own risk. I am not responsible if anything happens to your Discord account.
 
-## Other themes
+## Other Themes
 You can change the theme via the `ADD_CLASS_JS` constant.<br>
 Default: `document.body.classList.add('theme-midnight');`
 
