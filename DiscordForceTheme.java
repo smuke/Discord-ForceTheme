@@ -7,6 +7,8 @@ import java.util.regex.Pattern;
 public class DiscordForceTheme
 {
     protected final static String ADD_CLASS_JS = "document.body.classList.add('theme-midnight');";
+    // Fix broken style for member list
+    protected final static String EXTRA_JS = "document.body.style.setProperty('--custom-channel-members-bg', 'var(--background-secondary)');";
     protected static String versionDirectoryRegex;
     protected static String dataDirectory;
     protected static File[] files;

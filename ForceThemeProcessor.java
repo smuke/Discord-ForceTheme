@@ -41,7 +41,7 @@ public class ForceThemeProcessor extends DiscordForceTheme
                 FileOutputStream outputStream = new FileOutputStream(indexFile, true);
                 PrintWriter outFile = new PrintWriter(outputStream);
 
-                outFile.write("\n" + ADD_CLASS_JS);
+                outFile.write("\n" + ADD_CLASS_JS + "\n" + EXTRA_JS);
 
                 System.out.println("Successfully added the theme code to " + indexFile);
 
