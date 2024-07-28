@@ -6,7 +6,8 @@ Applies the midnight Discord theme and keeps it on restart!
 
 Currently works on Windows and macOS.
 
-**Note: You need to run the program again after Discord updates.**
+> [!NOTE]
+> You need to run the program again after Discord updates.
 
 > [!WARNING]
 > This program adds a line to the index.js file in Discord modules.
