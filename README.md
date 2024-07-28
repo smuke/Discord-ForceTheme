@@ -8,7 +8,7 @@ Currently works on Windows and macOS.
 
 **Note: You need to run the program again after Discord updates.**
 
-⚠️ ️Disclaimer
+> [!WARNING]
 > This program adds a line to the index.js file in Discord modules.
 > It can be dangerous to have any malicious code in this file.
 > Use at your own risk. I am not responsible if anything happens to your Discord account.
