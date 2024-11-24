@@ -26,7 +26,9 @@ Currently works on Windows and macOS.
 - Run `java -jar Discord-ForceTheme.jar`<br>
 
 ### Run on macOS
-- Open the .jar file to run
+- Move .jar file to Downloads
+- Open Terminal application
+- Run `java -jar Downloads/Discord-ForceTheme.jar`
 
 ## Other Themes
 
